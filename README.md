@@ -1,4 +1,6 @@
-![alt text](/EdSplash-Example.png)
+<div align="center">
+    <img src="/EdSplash-Example.png" title="Main Logo" />
+</div>
 
 ---
 
